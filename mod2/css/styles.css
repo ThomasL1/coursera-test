@@ -10,6 +10,10 @@ p {
 
 }
 
+.pagetitle{
+  text-align: center;
+}
+
 .contents{
   height: auto;
   padding-right: 10px;
